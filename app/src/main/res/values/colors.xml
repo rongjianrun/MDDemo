@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color><!--项目主题色，一般是titleBar背景色-->
+    <color name="colorPrimaryDark">#303F9F</color><!--比主题色深一点的颜色，一般是状态栏颜色-->
+    <color name="colorAccent">#FF4081</color><!--控件选中后的颜色-->
+    <color name="textColorPrimary">#292929</color><!--文字的主题色-->
+    <!--<color name="windowBackground"></color> 窗口背景颜色-->
+    <!--<color name="navigationBarColor"></color> 导航栏颜色-->
+</resources>

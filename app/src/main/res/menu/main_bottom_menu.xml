@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/bottom_menu1"
+            android:icon="@drawable/icon1_unselected"
+            android:title="游戏" />
+        <item
+            android:id="@+id/bottom_menu2"
+            android:icon="@drawable/icon2_unselected"
+            android:title="返利" />
+        <item
+            android:id="@+id/bottom_menu3"
+            android:icon="@drawable/icon3_unselected"
+            android:title="我的" />
+        <item
+            android:id="@+id/bottom_menu4"
+            android:icon="@drawable/icon4_unselected"
+            android:title="礼包" />
+    </group>
+</menu>
